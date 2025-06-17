@@ -1,0 +1,9 @@
+jax[cuda12]==0.6.0
+jax==0.6.0
+jaxlib==0.6.0
+jax-cuda12-plugin==0.6.0
+mujoco
+mujoco_mjx
+brax
+playground
+mediapy
